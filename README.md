@@ -22,7 +22,7 @@ apt-get install libhdf5-dev -y
 pip install hickle
 
 # Build liblinear.
-cd beng/facefit/external/liblinear/python
+cd facefit/facefit/external/liblinear/python
 make
 ```
 
